@@ -1,0 +1,6 @@
+{
+  "name": "Regression Prediction Tool",
+  "description": "An interactive Multiple Linear Regression prediction tool to train models, visualize coefficients, and run multi-variable predictions with real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
